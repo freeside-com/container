@@ -1,0 +1,25 @@
+box hardware
+4 2x2 per side 
+2 side = 8 2x2
+back wall 3 2x2
+celining
+3 x 2x10
+6 x 2x8
+
+11 2x2 verticle 8ft
+6 2x2 horiztol 10ft
+3 2x2 horizontal 8ft
+
+Total 2x8
+11+3+6 = 20
+Total 2sx2x10
+3+6 = 9
+
+
+4 2x4 10ft
+4 2x4 8ft
+
+corners
+4 2x4 8ft
+
+T
